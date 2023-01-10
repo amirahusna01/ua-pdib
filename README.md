@@ -1,4 +1,4 @@
-# Preview Mini Project Data Preparation Using Python and Tableau
+# Mini Project Data Preparation Using Python and Tableau
 ## Authors
 **Amira Husna Nur Adilah**
 
